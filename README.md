@@ -1,1 +1,1 @@
-"###Doc for azure iot edge computing" 
+###Doc for azure iot edge computing
